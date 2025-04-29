@@ -233,7 +233,7 @@ RBNode* searchRB(RBNode* root, int id) {
 
 // === Ana Fonksiyon ===
 int main() {
-    loadFromFile("C:\\Users\\aysen\\Desktop\\veriseti.txt");
+    loadFromFile("C:\\Users\\aysen\\OneDrive\\Desktop\\veriseti.txt");
 
     // RBTREE oluştur
     int i;
